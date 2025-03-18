@@ -5,7 +5,9 @@ const Navbar = () => {
     <>
       <div className="flex place-content-between place-items-center mx-5 sm:mx-16 md:mx-16 my-5 ">
         <div className="">
-          <h1 className="text-1xl sm:text-3xl md:text-3xl font-bold">Book Store</h1>
+          <h1 className="text-1xl sm:text-3xl md:text-3xl font-bold">
+            Book Store
+          </h1>
         </div>
         <div className="hidden sm:block md:block">
           <div className=" flex place-items-center gap-5">
