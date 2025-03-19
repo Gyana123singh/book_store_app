@@ -49,7 +49,7 @@ const Footer = () => {
         </nav>
         <aside>
           <p>
-            Copyright © {new Date().getFullYear()} - All right reserved by Gyana Singh
+            Copyright © {new Date().getFullYear()} - All rights reserved by Gyana Singh
           </p>
         </aside>
       </footer>
